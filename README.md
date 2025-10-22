@@ -139,8 +139,7 @@ streamlit run app.py
 ---
 
 ## 🔗 Deploy Linki
-🔹 [Streamlit Cloud Üzerinde Deneyin](https://akilli-finans-asistani.streamlit.app)  
-_(Demo adresinizi buraya ekleyin.)_
+https://akilli-finans-asistani-fxg5yav5rtne3gb5yu4gmb.streamlit.app/
 
 ---
 
