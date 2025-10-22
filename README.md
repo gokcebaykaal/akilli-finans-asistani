@@ -82,8 +82,8 @@ pip install -r requirements.txt
 
 5. `.env` dosyasını oluşturun:
 ```
-GEMINI_API_KEY=YOUR_GEMINI_KEY
-OPENAI_API_KEY=YOUR_OPENAI_KEY
+GEMINI_API_KEY=AIzaSyCDidvHez5SAQF3P2m2b0Z2w57yq8vM5fQ
+OPENAI_API_KEY=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
 ```
 
 6. Uygulamayı çalıştırın:
