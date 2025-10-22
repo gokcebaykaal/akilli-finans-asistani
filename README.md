@@ -1,4 +1,4 @@
-# 💬 Akıllı Finans Asistanı (RAG + Özgün Veri Setleri)
+# 💬 Akıllı Finans Asistanı
 
 Belgeleri anlayan, finansal kavramları yorumlayan ve **RAG (Retrieval-Augmented Generation)** mimarisiyle çalışan bir **Yapay Zekâ Destekli Finans Asistanı**.  
 Bu sistem, yalnızca bankacılık sözleşmelerini değil, geliştirici tarafından hazırlanmış **özgün finans veri setlerini** de kullanarak kullanıcı sorularına bağlama dayalı yanıtlar üretir.
