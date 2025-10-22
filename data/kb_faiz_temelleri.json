@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "faiz-001",
+    "source_file": "kb_faiz_temelleri.json",
+    "source_code": "GENEL",
+    "title": "Faizin Temelleri",
+    "page": 1,
+    "chunk_index_in_page": 0,
+    "text": "Faiz, paranın kullanım bedelidir. Vadesiz hesaplar genellikle faiz işletmez; vadeli hesaplarda ise anapara belirli bir süre bankada tutulur ve vade sonunda faiz kazanılır. Basit faiz, yalnızca anaparaya uygulanır. Bileşik faiz, her dönemde kazanılan faizin anaparaya eklenip bir sonraki dönemde de faiz kazanmasıdır. Yıllık yüzde oranı (APR) maliyet bileşenlerini içerebilirken, etkin yıllık getiri (APY) bileşikleşmenin etkisini de dikkate alır. Genel olarak daha uzun vade ve daha yüksek faiz oranı, daha yüksek getiriye yol açar; ancak vade boyunca paraya erişim sınırlıdır ve erken çekimde faiz kaybı gündeme gelebilir."
+  },
+  {
+    "chunk_id": "faiz-002",
+    "source_file": "kb_faiz_temelleri.json",
+    "source_code": "GENEL",
+    "title": "Bileşik Faiz Örneği",
+    "page": 1,
+    "chunk_index_in_page": 1,
+    "text": "Bileşik faizde formül yaklaşık olarak FV = PV × (1 + r/m)^(m×t) şeklindedir. Burada PV başlangıç tutarı, r yıllık faiz oranı, m yıl içindeki bileşikleşme sayısı, t yıl sayısıdır. Örnek: 10.000 TL, yıllık %30, aylık bileşik (m=12) ve t=1 yıl için, FV ≈ 10.000 × (1+0,30/12)^(12) olur. Bileşikleşme sıklığı arttıkça getirinin etkin oranı yükselir. Etkin yıllık getiri (APY) = (1 + r/m)^(m) − 1 formülüyle bulunur."
+  },
+  {
+    "chunk_id": "faiz-003",
+    "source_file": "kb_faiz_temelleri.json",
+    "source_code": "GENEL",
+    "title": "Vadeli/Vadesiz ve Zaman Aşımı",
+    "page": 1,
+    "chunk_index_in_page": 2,
+    "text": "Vadesiz hesap, müşterinin talebi üzerine mevcut bakiyeden ödeme yapılabilen, önceden belirlenmiş vadesi olmayan hesaptır. Vadeli hesapta banka, para belirli gün kadar hesapta tutulursa faiz öder; erken kapamada faiz kısmen veya tamamen silinebilir. Birçok ülkede, belirli süre işlem görmeyen hesaplarda yasal zaman aşımı ve mevduat sigortası çerçeveleri bulunur; bu çerçeveler ülkeye göre değiştiği için resmi kurumların güncel kuralları esas alınmalıdır."
+  }
+]

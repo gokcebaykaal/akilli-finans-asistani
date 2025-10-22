@@ -1,0 +1,25 @@
+# ==========================
+# Akıllı Finans Asistanı
+# ==========================
+
+# Streamlit UI framework
+streamlit==1.38.0
+
+# LLM API entegrasyonları
+google-generativeai==0.5.4
+openai==1.52.2
+
+# RAG (Retrieval-Augmented Generation) altyapısı
+chromadb==0.5.7
+sentence-transformers==3.0.1
+
+# PDF ve veri dosyası işleme
+pypdf==4.2.0
+pandas==2.2.3
+numpy==1.26.4
+
+# Finans araçları
+yfinance==0.2.48
+
+# Ortam değişkenleri
+python-dotenv==1.0.1

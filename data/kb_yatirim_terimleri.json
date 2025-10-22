@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "yt-001",
+    "source_file": "kb_yatirim_terimleri.json",
+    "source_code": "GENEL",
+    "title": "Risk, Getiri ve Volatilite",
+    "page": 1,
+    "chunk_index_in_page": 0,
+    "text": "Yatırımda risk ve getiri genellikle birlikte hareket eder. Volatilite, fiyatın ne kadar oynak olduğunu gösterir; yüksek volatilite, kısa dönemde fiyatın daha geniş aralıkta değişebileceğine işaret eder. Çeşitlendirme, farklı varlık sınıflarına yayılmayı ifade eder ve tek bir varlığa özgü riskin etkisini azaltabilir. Geçmiş getiri gelecekteki performansı garanti etmez; yatırım kararı kişisel hedefler, vade ve risk toleransı göz önüne alınarak değerlendirilmelidir."
+  },
+  {
+    "chunk_id": "yt-002",
+    "source_file": "kb_yatirim_terimleri.json",
+    "source_code": "GENEL",
+    "title": "Temel Varlık Türleri",
+    "page": 1,
+    "chunk_index_in_page": 1,
+    "text": "Nakit-benzeri (mevduat, para piyasası), sabit getirili (tahvil/bono), hisse senedi ve fonlar başlıca varlık sınıflarıdır. Sabit getirili ürünlerde vade ve kupon/faiz yapısı önemlidir; faiz yükselişi tahvil fiyatlarını aşağı çekebilir. Hisseler ortaklık payını temsil eder ve temettü ödeyebilir; fiyatları şirket kârlılığı ve piyasa beklentilerine duyarlıdır. Yatırım fonları, profesyonel yönetime ve çeşitlendirmeye erişim sağlar ancak masraf kesintileri bulunur."
+  }
+]

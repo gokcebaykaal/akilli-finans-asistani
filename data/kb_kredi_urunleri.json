@@ -1,0 +1,20 @@
+[
+  {
+    "chunk_id": "kredi-001",
+    "source_file": "kb_kredi_urunleri.json",
+    "source_code": "GENEL",
+    "title": "Kredi Türleri ve Maliyet",
+    "page": 1,
+    "chunk_index_in_page": 0,
+    "text": "Tüketici kredileri genel olarak ihtiyaç, konut ve taşıt kredisi olarak sınıflanır. Aylık taksitler çoğunlukla sabittir ve PMT formülü ile hesaplanır: PMT = r × PV / (1 − (1 + r)^−n). Burada PV kredi tutarı, r aylık faiz oranı, n toplam ay sayısıdır. Yıllık maliyet oranı; faiz, tahsis/masraf ve sigorta gibi kalemleri de içerebilir. Erken kapamada kalan anapara üzerinden indirim yapılır; erken ödeme ücreti ülkedeki düzenlemelere göre değişir. Değişken faizli kredilerde taksit tutarı dönemsel olarak yeniden hesaplanır."
+  },
+  {
+    "chunk_id": "kredi-002",
+    "source_file": "kb_kredi_urunleri.json",
+    "source_code": "GENEL",
+    "title": "Kredi Riskleri ve Ön Onay",
+    "page": 1,
+    "chunk_index_in_page": 1,
+    "text": "Kredi başvurularında gelir, borçluluk ve kredi geçmişi dikkate alınır. Ön onay, nihai onay taahhüdü değildir; belge kontrolü, teminat ve yasal süreçler sonuca etki eder. Faiz oranı; piyasa koşulları, ürün tipi ve müşterinin risk profiline göre değişebilir. Kredi kullanımı, bütçeye uygun taksit ve toplam geri ödeme hesaplanarak yapılmalıdır; bu uygulama eğitim amaçlıdır ve kişisel finans tavsiyesi vermez."
+  }
+]
