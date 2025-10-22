@@ -620,4 +620,4 @@ if 'ask' in locals() and ask and 'query' in locals() and query.strip():
 
         st.caption(f"⏱ Süre: {time.time()-start:.2f}s")
 
-🔧 Fix nested expander error – replaced expander with container
+# 🔧 Fix nested expander error – replaced expander with container
