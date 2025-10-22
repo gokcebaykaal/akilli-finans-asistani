@@ -395,20 +395,20 @@ with st.sidebar:
                 except Exception:
                     st.write(f"• **{fname}** — henüz indekslenmedi")
 
-        st.markdown("#### 🔍 Örnek Parça Önizleme")
-with st.container(border=True):
-    try:
-        if selected_files:
-            sample = DATA_DIR / selected_files[0]
-            rows = load_rows(sample)
-            st.code(
-                rows[0].get("text", "")[:800]
-                + ("..." if len(rows[0].get("text", "")) > 800 else "")
-            )
-        else:
-            st.info("Önizleme için bir dosya seç.")
-    except Exception as e:
-        st.warning(f"Önizleme yapılamadı: {e}")
+       # st.markdown("#### 🔍 Örnek Parça Önizleme")
+#with st.container(border=True):
+ #   try:
+  #      if selected_files:
+   #         sample = DATA_DIR / selected_files[0]
+    #        rows = load_rows(sample)
+     #       st.code(
+      #          rows[0].get("text", "")[:800]
+       #         + ("..." if len(rows[0].get("text", "")) > 800 else "")
+        #    )
+        #else:
+         #   st.info("Önizleme için bir dosya seç.")
+   # except Exception as e:
+    #    st.warning(f"Önizleme yapılamadı: {e}")
 
         st.caption("Yeni kaynak ekle:")
         up_tab1, up_tab2 = st.tabs(["📄 PDF", "📑 JSON/CSV"])
