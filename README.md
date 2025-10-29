@@ -14,7 +14,6 @@ Bu proje, finansal metinleri (örneğin faiz hesaplamaları, kredi ürünleri, y
 - **Kullanıcıya kaynaklı yanıtlar** sunmak (hangi belgeye dayandığını belirtmek),  
 - Ve **yatırım tavsiyesi vermeden** bilgilendirici, açıklayıcı bir sistem kurmak amacıyla geliştirilmiştir.
 
-> Bu proje, **Akbank GenAI Bootcamp**'in “Generative AI + RAG” proje gereksinimlerini yerine getirir.
 
 ---
 
